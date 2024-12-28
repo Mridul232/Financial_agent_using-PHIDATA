@@ -14,7 +14,8 @@ then type "y"
 
 pip install -r requirements.txt
 #creating api keys 
-first login in phidata then in dashboard go to api keys section - ![image](https://github.com/user-attachments/assets/951cf39e-dc33-4166-9d0e-9e20445e17ac)
+first login in phidata then in dashboard go to api keys section - <img src="https://github.com/user-attachments/assets/951cf39e-dc33-4166-9d0e-9e20445e17ac" alt="Image description" width="400px" height="300px">
+
 
 1)phidata api key from website - https://docs.phidata.com/introduction
 
